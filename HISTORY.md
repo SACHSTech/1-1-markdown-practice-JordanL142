@@ -11,13 +11,13 @@ Together, these four pillars shaped a global cultural force. Today, hip hop is o
 
 ## 2. The Birth of Hip Hop (1970s)  
 
-DJ Kool Herc (image link: https://i.imgur.com/weXCosl.jpg)
+![DJ Kool Herc](https://i.imgur.com/weXCosl.jpg)
 
 Hip hop’s roots can be traced back to block parties in the Bronx. DJs such as Kool Herc pioneered the technique of isolating and looping the breakbeat from funk and soul records.  
 
 This extended drum section became the foundation for MCs to hype up the crowd.  
 
-“Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
+> “Hip hop didn’t invent anything. Hip hop reinvented everything.” – Chuck D 
 
 Key Figures of the 1970s:  
 1. Kool Herc – credited with extending the break. (video link: https://youtu.be/10C-Q3NIlzU)  
@@ -26,7 +26,7 @@ Key Figures of the 1970s:
 
 ## 3. The Old School Era (Early 1980s)  
 
-Run DMC (image link: https://i.imgur.com/e80w9gc.jpg)
+![Run DMC](https://i.imgur.com/e80w9gc.jpg)
 
 As hip hop gained traction, artists began recording tracks commercially.  
 - Rapper’s Delight by the Sugarhill Gang (1979) is widely recognized as the first recorded rap single to reach mainstream audiences. (video link: https://youtu.be/mcCK99wHrk0)  
@@ -35,7 +35,7 @@ As hip hop gained traction, artists began recording tracks commercially.
 
 ## 4. The Golden Age of Hip Hop (Late 1980s–Mid 1990s)  
 
-Notorious B.I.G. (image link: https://i.imgur.com/aICxYyc.jpg)
+![Notorious B.I.G.](https://i.imgur.com/aICxYyc.jpg)
 
 The Golden Age is often described as the most creative and influential period of hip hop.  
 This era emphasized lyrical complexity, innovation in production, and a broad diversity of styles.  
@@ -66,7 +66,7 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 
 ## 6. Regional Diversity in the Golden Age  
 
-U.S. Map (image link: https://i.imgur.com/aLT8i1B.png)
+![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
 Region   | Key Artists            | Notable Albums  
 East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
@@ -84,7 +84,7 @@ Negatives: Increasing commercialization, rise of formulaic “radio rap.”
 
 ## 8. Modern Hip Hop  
 
-Kendrick Lamar (image link: https://i.imgur.com/GFKOYTV.jpg)
+![Kendrick Lamar](https://i.imgur.com/GFKOYTV.jpg)
 
 “If I’m gonna tell a real story, I’m gonna start with my name.” – Kendrick Lamar  
 
