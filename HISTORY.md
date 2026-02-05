@@ -87,8 +87,8 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 By the late 1990s, the deaths of **Tupac Shakur** and **The Notorious B.I.G.** marked the tragic end of an era.  
 The industry shifted towards commercialization, with artists like **Jay-Z** and **Eminem** dominating charts.  
 
-Positives: Greater mainstream recognition, global spread of hip hop.  
-Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
+- Positives: Greater mainstream recognition, global spread of hip hop.  
+- Negatives: Increasing commercialization, rise of formulaic “radio rap.”  
 
 
 
