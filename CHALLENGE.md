@@ -28,7 +28,12 @@ MongoDB
 Redis
 
 ## Example 2
-This is a single paragraph sentence that should break softly with two spaces at the end of the previous line. Here’s the continuation of the same paragraph. Now this is a hard break (blank line above), which creates a brand new paragraph.
+This is a single paragraph sentence that  
+should break softly with two spaces at the end of the previous line.  
+Here’s the continuation of the same paragraph.
+
+Now this is a hard break (blank line above),  
+which creates a brand new paragraph.
 
 ## Example 3
 A minimal Markdown logo in black and white
@@ -48,7 +53,6 @@ Production is formulaic
 And yet, within that, artists like *Kendrick Lamar* prove that innovation and depth are still alive.  
 
 ## Example 5
-
 | **Tool** | **Strengths** | **Weaknesses** |
 | ---- | --------- | -----------|
 | **GitHub** | Easy collaboration, integrates CI/CD | Requires knowledge of `git` |
