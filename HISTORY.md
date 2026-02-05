@@ -69,18 +69,20 @@ This era emphasized lyrical complexity, innovation in production, and a broad di
 - Use of drum machines like the Roland TR-808  
 - Layering multiple samples into dense sound collages  
 
-## 6. Regional Diversity in the Golden Age  
 
+
+## 6. Regional Diversity in the Golden Age  
 ![U.S. Map](https://i.imgur.com/aLT8i1B.png)
 
-Region   | Key Artists            | Notable Albums  
+**Region**   | **Key Artists**            | **Notable Albums**  
 East Coast | Nas, Biggie, Wu-Tang Clan | Illmatic, Ready to Die, 36 Chambers  
 West Coast | Tupac, N.W.A., Ice Cube | All Eyez on Me, Straight Outta Compton  
 Midwest   | Common, Bone Thugs-N-Harmony | Resurrection, E. 1999 Eternal  
 South     | Outkast, Geto Boys    | Southernplayalisticadillacmuzik  
 
-## 7. Transition to the 2000s  
 
+
+## 7. Transition to the 2000s  
 By the late 1990s, the deaths of Tupac Shakur and The Notorious B.I.G. marked the tragic end of an era.  
 The industry shifted towards commercialization, with artists like Jay-Z and Eminem dominating charts.  
 
