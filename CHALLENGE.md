@@ -39,9 +39,9 @@ which creates a brand new paragraph.
 A minimal Markdown logo in black and white
 image source: https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg
 link for image click: https://www.markdownguide.org
-Click the image above to visit the Markdown Guide website.
+_Click the image above to visit the Markdown Guide website._
 
-NOTE: The above image source is https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg. It uses the alt text A minimal Markdown logo in black and white and, when clicked, takes the user to the website at https://www.markdownguide.org
+> NOTE: The above image source is `https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg`. It uses the alt text `A minimal Markdown logo in black and white` and, when clicked, takes the user to the website at `https://www.markdownguide.org`
 
 ## Example 4
 “The thing about hip hop today is it's smart, it's insightful. The way they can communicate a complex message in a very short space is remarkable.” – Barack Obama
