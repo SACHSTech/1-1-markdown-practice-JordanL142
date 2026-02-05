@@ -30,7 +30,7 @@ Redis
 ## Example 2
 This is a single paragraph sentence that should break softly with two spaces at the end of the previous line. Here’s the continuation of the same paragraph. Now this is a hard break (blank line above), which creates a brand new paragraph.
 
-##Example 3
+## Example 3
 A minimal Markdown logo in black and white
 image source: https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg
 link for image click: https://www.markdownguide.org
@@ -48,14 +48,9 @@ Production is formulaic
 And yet, within that, artists like *Kendrick Lamar* prove that innovation and depth are still alive.  
 
 ## Example 5
-Tool, Strengths, Weaknesses
-GitHub
-Easy collaboration, integrates CI/CD
-Requires knowledge of git
 
-Markdown
-Lightweight, portable, human-readable
-Limited styling compared to HTML
-
-VS CodeExtensions, debugging, free
-Can feel heavy on low-end machines
+| **Tool** | **Strengths** | **Weaknesses** |
+| ---- | --------- | -----------|
+| **GitHub** | Easy collaboration, integrates CI/CD | Requires knowledge of `git` |
+| _Markdown_ | Lightweight, portable, human-readable | Limited styling compared to HTML |
+| VS Code | Extensions, debugging, free | Can feel heavy on low-end machines |
