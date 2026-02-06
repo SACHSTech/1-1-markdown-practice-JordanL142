@@ -40,14 +40,14 @@ Stouffville, Ontario
 
 
 ## Skills and Abilities
-Leadership  
-Lead numerous group discussions for children at a church summer camp  
+### Leadership
+- Lead numerous group discussions for children at a church summer camp  
 
-Communication  
-Confident speaking in public and to groups. (e.g., Taught Children at Summer Camp)  
+### Communication 
+- Confident speaking in public and to groups. (e.g., Taught Children at Summer Camp)  
 
-Teamwork  
-Collabed with others to organize games at a children's summer camp  
+### Teamwork
+- Collabed with others to organize games at a children's summer camp  
 
 
 
