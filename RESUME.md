@@ -5,7 +5,6 @@
 
 
 ## Education
-
 ### September 2013 - June 2023 | Mount Joy Public School  
 Elementary School Diploma  
 _Markham, Ontario_
@@ -17,14 +16,14 @@ _Markham, Ontario_
 
 
 ## Extra-Curriculars
+**October 2016 - Present | Badminton**  
+- Collaborated with team members  
+- Learned how to play _competitively_ against others
+  
 **July 2017 - Present | Piano**  
 - _Enhanced_ cognitive skills  
 - Created different kinds of music  
-- Passed piano listening and playing exams   
-
-**October 2016 - Present | Badminton**  
-- Collaborated with team members  
-- Learned how to play _competitively_ against others  
+- Passed piano listening and playing exams    
 
 
 
@@ -52,7 +51,6 @@ _Stouffville, Ontario_
 
 
 ## Achievements
-
 **June 2018 | 1st Standing Long Jump**  
 - Trained for track and field and got _first_ place for furthest jump  
 
