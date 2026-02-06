@@ -1,25 +1,25 @@
 # Jordan Lam
 
-**Objective:** Student with excellent collaboration skills, strong communication skills, and volunteer experience who is seeking to gain experience in the marketing industry.
+**Objective:** Student with _excellent_ collaboration skills, _strong_ communication skills, and volunteer experience who is _seeking_ to gain experience in the scientific industry.
 
 
 
 ## Education
-September 2023 - Present | St. Augustine Catholic High School  
+### September 2023 - Present | St. Augustine Catholic High School  
 Ontario Secondary School Diploma  
-Markham, Ontario  
+_Markham, Ontario_ 
 
 
 
 ## Extra-Curriculars
-July 2017 - Present | Piano  
-Enhanced cognitive skills  
-Created different kinds of music  
-Passed piano listening and playing exams   
+**July 2017 - Present | Piano**  
+- Enhanced cognitive skills  
+- Created different kinds of music  
+- Passed piano listening and playing exams   
 
-October 2016 - Present | Badminton  
-Collaborated with team members  
-Learned how to play competitively against others  
+**October 2016 - Present | Badminton**  
+- Collaborated with team members  
+- Learned how to play competitively against others  
 
 
 
