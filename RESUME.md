@@ -52,20 +52,20 @@ Stouffville, Ontario
 
 
 ## Achievements
-June 2023 | Honour Roll  
-Worked hard at school to get good grades and received honor roll after graduating elementary school  
+**June 2023 | Honour Roll**  
+- Worked hard at school to get good grades and received honor roll after graduating elementary school  
 
-May 2022 | Gauss Contest Distinction  
-Studied hard for a Waterloo math contest and got top 25% of students in Ontario  
+**May 2022 | Gauss Contest Distinction**  
+- Studied hard for a Waterloo math contest and got top 25% of students in Ontario  
 
-June 2018 | 1st Standing Long Jump  
-Trained for track and field and got first place for furthest jump  
+**June 2018 | 1st Standing Long Jump**  
+- Trained for track and field and got first place for furthest jump  
 
-July 2021 | Best Participation Award  
-Participated the most by answering and as king questions at a church camp  
+**July 2021 | Best Participation Award**  
+- Participated the most by answering and as king questions at a church camp  
 
-March 2025 | Cayley COntest Distinction
-Studied hard for a Waterloo math contest and got top 25% of students in Ontario
+**March 2025 | Cayley Contest Distinction**
+- Studied hard for a Waterloo math contest and got top 25% of students in Ontario
 
 
 
