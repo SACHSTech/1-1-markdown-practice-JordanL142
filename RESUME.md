@@ -70,11 +70,11 @@ Stouffville, Ontario
 
 
 ## Certifications
-August 2023  
-The Royal Conservatory Grade 6 Piano Exam  
+**August 2023**  
+- The Royal Conservatory Grade 6 Piano Exam  
 
-November 2025  
-CPR C and First Aid Certificate  
+**November 2025**  
+- CPR C and First Aid Certificate  
 
 
 
