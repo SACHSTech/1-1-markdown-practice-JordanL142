@@ -2,30 +2,30 @@
 Test your knowledge of Markdown syntax with these examples. Can you re-create them without looking anything up?
 
 ## Example 1
-Programming Languages
-Python
-Popular Frameworks
-Django
-Flask
-Notable Features
-Dynamic typing
-Huge ecosystem
-JavaScript
-Frontend
-React
-Vue
-Angular
-Backend
-Node.js
-Deno
+1. Programming Languages  
+    - Python  
+        1. Popular Frameworks
+            - Django
+            - Flask
+        2. Notable Features
+            - Dynamic typing
+            - Huge ecosystem
+    - JavaScript
+        1. Frontend
+            - React
+            - Vue
+            - Angular
+        2. Backend
+            - Node.js
+            - Deno
 
-Databases
-Relational
-PostgreSQL
-MySQL
-NoSQL
-MongoDB
-Redis
+2. Databases
+    - Relational
+        1. PostgreSQL
+        2. MySQL
+    - NoSQL
+        - MongoDB
+        - Redis
 
 
 
