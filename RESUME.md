@@ -18,13 +18,13 @@ _Markham, Ontario_
 
 ## Extra-Curriculars
 **July 2017 - Present | Piano**  
-- Enhanced cognitive skills  
+- _Enhanced_ cognitive skills  
 - Created different kinds of music  
 - Passed piano listening and playing exams   
 
 **October 2016 - Present | Badminton**  
 - Collaborated with team members  
-- Learned how to play competitively against others  
+- Learned how to play _competitively_ against others  
 
 
 
@@ -32,40 +32,41 @@ _Markham, Ontario_
 ### July 2023 - August 2025 | _Stouffville Grace Baptist Church_   
 Number of Hours: 120  
 Church Team Captain  
-Stouffville, Ontario  
-- Supervised young children
-- Assisted with teaching children about God
-- Organized fun games for children
+_Stouffville, Ontario_  
+- _Supervised_ young children
+- _Assisted_ with teaching children about God
+- _Organized_ fun games for children
 
 
 
 ## Skills and Abilities
 ### Leadership
-- Lead numerous group discussions for children at a church summer camp  
+- Lead _numerous_ group discussions for children at a church summer camp  
 
 ### Communication 
-- Confident speaking in public and to groups. (e.g., Taught Children at Summer Camp)  
+- _Confident_ speaking in public and to groups. (e.g., Taught Children at Summer Camp)  
 
 ### Teamwork
-- Collabed with others to organize games at a children's summer camp  
+- _Collabed_ with others to organize games at a children's summer camp  
 
 
 
 ## Achievements
-**June 2023 | Honour Roll**  
-- Worked hard at school to get good grades and received honor roll after graduating elementary school  
-
-**May 2022 | Gauss Contest Distinction**  
-- Studied hard for a Waterloo math contest and got top 25% of students in Ontario  
 
 **June 2018 | 1st Standing Long Jump**  
-- Trained for track and field and got first place for furthest jump  
+- Trained for track and field and got _first_ place for furthest jump  
 
 **July 2021 | Best Participation Award**  
-- Participated the most by answering and as king questions at a church camp  
+- Participated the most by answering and _asking questions_ at a church camp
+
+**May 2022 | Gauss Contest Distinction**  
+- Studied _hard_ for a Waterloo math contest and got top 25% of students in Ontario  
+
+**June 2023 | Honour Roll**  
+- Worked _hard_ at school to get good grades and received honor roll after graduating elementary school  
 
 **March 2025 | Cayley Contest Distinction**
-- Studied hard for a Waterloo math contest and got top 25% of students in Ontario
+- Studied _hard_ for a Waterloo math contest and got top 25% of students in Ontario
 
 
 
