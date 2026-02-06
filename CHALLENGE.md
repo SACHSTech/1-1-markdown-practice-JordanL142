@@ -58,7 +58,7 @@ The way they can communicate a complex message in a very short space is remarkab
 > > But some argue:
 > > - Lyrics have become repetitive
 > > - Production is formulaic
-
+> > 
 > > > And yet, within that, artists like *Kendrick Lamar* prove  
 > > > that innovation and depth are still alive.  
 
