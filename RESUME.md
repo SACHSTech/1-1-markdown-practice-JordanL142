@@ -5,7 +5,12 @@
 
 
 ## Education
-### September 2023 - Present | St. Augustine Catholic High School  
+
+### September 2013 - June 2023 | Mount Joy Public School  
+Elementary School Diploma  
+_Markham, Ontario_
+
+### September 2023 - Present | St. Augustine Catholic High School   
 Ontario Secondary School Diploma  
 _Markham, Ontario_ 
 
@@ -24,7 +29,7 @@ _Markham, Ontario_
 
 
 ## Volunteer Experience
-July 2023 - August 2025 | Stouffville Grace Baptist Church  
+### July 2023 - August 2025 | _Stouffville Grace Baptist Church_   
 Number of Hours: 120  
 Church Team Captain  
 Stouffville, Ontario  
